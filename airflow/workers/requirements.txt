@@ -1,0 +1,8 @@
+apache-airflow-providers-apache-beam[google]
+apache-airflow-providers-apache-kafka
+pandas
+python-dotenv
+requests
+apache_beam
+quixstreams
+confluent-kafka

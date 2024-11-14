@@ -1,0 +1,9 @@
+fastapi[standard]
+flake8
+python-dotenv
+requests
+sqlalchemy
+psycopg2-binary
+ipykernel
+quixstreams
+apache_beam
